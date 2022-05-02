@@ -32,6 +32,7 @@ The following issues are good for beginners wanting to help with fixing issues a
 - [[longform|Longform]] - [Style: Add custom icons and colors to Longform projects in the core file explorer](https://github.com/kevboh/longform/issues/5)
 - [[longform|Longform]] - [Refactor: Move filename input error handling into a svelte action](https://github.com/kevboh/longform/issues/4)
 - [[media-extended|Media Extended]] - [Feature: Add Commands for Pip toggle](https://github.com/aidenlx/media-extended/issues/66)
+- [[obsidian-columns|Obsidian Columns]] - [[Not issue] My new video introduced Obsidian Columns plugin](https://github.com/tnichols217/obsidian-columns/issues/7)
 - [[quote-of-the-day|Quote of the Day]] - [Feature request: placeholder for templates](https://github.com/twentytwokhz/quote-of-the-day/issues/3)
 - [[rss-reader|RSS Reader]] - [Translate into multiple languages](https://github.com/joethei/obsidian-rss/issues/43)
 - [[slated-obsidian|Slated]] - [Move completed tasks to bottom](https://github.com/tgrosinger/slated-obsidian/issues/27)
